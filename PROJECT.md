@@ -1,8 +1,7 @@
 # The Project
 
 This program is built around one project you start in Week 1 and ship in
-Week 8: **an application that solves a real problem using a local or
-self-deployed LLM (or SLM).**
+Week 8: **a data-quality/profiling tool that detects problems in a real dataset you choose.**
 
 > [!IMPORTANT]
 > **You are not building a model.** The goal is a tool that profiles a dataset and reports what's wrong with it — missing values, duplicates, outliers, type mismatches, inconsistent categories — in plain language, not a predictive model or a dashboard product.
