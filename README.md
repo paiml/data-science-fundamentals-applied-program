@@ -1,4 +1,4 @@
-<h1 align="center">Data Science Fundamentals Applied Program</h1>
+<h1 align="center">Create a Data Science Tool</h1>
 
 <p align="center">Beginner, project-based, portfolio-first data science</p>
 
